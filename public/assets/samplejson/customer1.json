@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
+	"name": "Raja",
+	"email": "raja@gmail.com",
 	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
+	"city": "Chennai",
+	"state": "Tamilnadu",
 	"country": "India",
 	"organization": "Company 1",
-	"jobProfile": "Software Developer",
+	"jobProfile": "DevOps Enghineer",
 	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
 }
